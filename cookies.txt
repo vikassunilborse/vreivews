@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+localhost	TRUE	/	FALSE	1999999999	PHPSESSID	3tsp9ujjnl7p8mn09snhc7ec3l
+localhost	TRUE	/	FALSE	1999999999	wp-resetpass-b21bcd99b5aa25361b34562c0bf4af8f	+
+

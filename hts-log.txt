@@ -1,0 +1,55 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 06 Oct 2017 22:23:01 at http://localhost/mynewsite/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://localhost/mynewsite/ -O1 "C:\Users\vikas\Desktop\vreviews\vreviews" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:23:36	Error: 	"Method Not Allowed" (405) at link localhost/mynewsite/xmlrpc.php (from localhost/mynewsite/)
+22:25:06	Warning: 	Found for localhost/mynewsite/resetpass/
+22:25:06	Warning: 	File has moved from localhost/mynewsite/resetpass/ to http://localhost/mynewsite/lostpassword/?error=invalidkey
+22:25:15	Warning: 	File not parsed, looks like binary: localhost/mynewsite/wp-content/plugins/menu-icons/includes/library/icon-picker/css/types/fontawesome-webfont.woff2?v=4.6.1
+22:25:15	Warning: 	File not parsed, looks like binary: localhost/mynewsite/wp-content/themes/areview/fonts/fontawesome-webfont.woff2?v=4.7.0
+22:25:16	Warning: 	Moved Permanently for localhost/mynewsite/?p=197
+22:25:16	Warning: 	File has moved from localhost/mynewsite/?p=197 to http://localhost/mynewsite/test-submit/
+22:25:16	Warning: 	Moved Permanently for localhost/mynewsite/?p=230
+22:25:16	Warning: 	File has moved from localhost/mynewsite/?p=230 to http://localhost/mynewsite/recent-reviews/
+22:25:37	Warning: 	Moved Permanently for localhost/mynewsite/?p=237
+22:25:37	Warning: 	File has moved from localhost/mynewsite/?p=237 to http://localhost/mynewsite/lets-reviews/
+22:25:37	Warning: 	Moved Permanently for localhost/mynewsite/?p=250
+22:25:37	Warning: 	File has moved from localhost/mynewsite/?p=250 to http://localhost/mynewsite/login/
+22:25:37	Warning: 	Found for localhost/mynewsite/wp-admin/
+22:25:37	Warning: 	File has moved from localhost/mynewsite/wp-admin/ to http://localhost/mynewsite/login/?redirect_to=http%3A%2F%2Flocalhost%2Fmynewsite%2Fwp-admin%2F&reauth=1
+22:25:37	Warning: 	Moved Permanently for localhost/mynewsite/?p=256
+22:25:37	Warning: 	File has moved from localhost/mynewsite/?p=256 to http://localhost/mynewsite/lostpassword/
+22:25:45	Warning: 	Moved Permanently for localhost/mynewsite/?p=254
+22:25:45	Warning: 	File has moved from localhost/mynewsite/?p=254 to http://localhost/mynewsite/register/
+22:25:45	Error: 	"Unknown error" (451) at link supsystic-42d7.kxcdn.com/_assets/popup/img/assets/2016_ht_1_snow1.png (from localhost/mynewsite/wp-content/plugins/popup-by-supsystic/modules/popup/css/frontend.popup.css?ver=1.9.7)
+22:25:45	Error: 	"Unknown error" (451) at link supsystic-42d7.kxcdn.com/_assets/popup/img/assets/2016_ht_1_snow2.png (from localhost/mynewsite/wp-content/plugins/popup-by-supsystic/modules/popup/css/frontend.popup.css?ver=1.9.7)
+22:25:45	Error: 	"Unknown error" (451) at link supsystic-42d7.kxcdn.com/_assets/popup/img/assets/2016_ht_1_snow3.png (from localhost/mynewsite/wp-content/plugins/popup-by-supsystic/modules/popup/css/frontend.popup.css?ver=1.9.7)
+22:25:45	Warning: 	Moved Permanently for localhost/mynewsite/?p=338
+22:25:45	Warning: 	File has moved from localhost/mynewsite/?p=338 to http://localhost/mynewsite/lenovo-a7000/
+22:25:46	Warning: 	Moved Permanently for localhost/mynewsite/?p=384
+22:25:46	Warning: 	File has moved from localhost/mynewsite/?p=384 to http://localhost/mynewsite/lenovoa6000/
+22:25:46	Warning: 	Moved Permanently for localhost/mynewsite/?p=507
+22:25:46	Warning: 	File has moved from localhost/mynewsite/?p=507 to http://localhost/mynewsite/moto_g5s/
+22:25:46	Warning: 	Moved Permanently for localhost/mynewsite/?p=515
+22:25:46	Warning: 	File has moved from localhost/mynewsite/?p=515 to http://localhost/mynewsite/515-2/
+22:25:46	Warning: 	Moved Permanently for localhost/mynewsite/?p=598
+22:25:46	Warning: 	File has moved from localhost/mynewsite/?p=598 to http://localhost/mynewsite/sony-xperia-z5/
+22:25:46	Warning: 	Moved Permanently for localhost/mynewsite/?p=607
+22:25:46	Warning: 	File has moved from localhost/mynewsite/?p=607 to http://localhost/mynewsite/coolpad-cool-play-6/
+22:25:46	Warning: 	Moved Permanently for localhost/mynewsite/?p=614
+22:25:46	Warning: 	File has moved from localhost/mynewsite/?p=614 to http://localhost/mynewsite/samsung-galaxy-on-max/
+22:25:46	Warning: 	Moved Permanently for localhost/mynewsite/?p=500
+22:25:46	Warning: 	File has moved from localhost/mynewsite/?p=500 to http://localhost/mynewsite/lenovog500/
+22:25:46	Warning: 	Moved Permanently for localhost/mynewsite/?p=503
+22:25:46	Warning: 	File has moved from localhost/mynewsite/?p=503 to http://localhost/mynewsite/hp-laptop/
+22:25:46	Warning: 	Moved Permanently for localhost/mynewsite/?p=364
+22:25:46	Warning: 	File has moved from localhost/mynewsite/?p=364 to http://localhost/mynewsite/lg-smart-tv/
+22:25:52	Warning: 	File not parsed, looks like binary: localhost/mynewsite/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?2.4
+22:25:52	Error: 	"Not Found" (404) at link localhost/mynewsite/wp-admin/&reauth=1 (from localhost/mynewsite/login/?redirect_to=http%3A%2F%2Flocalhost%2Fmynewsite%2Fwp-admin%2F%26reauth=1)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 51 seconds : 206 links scanned, 182 files written (5190894 bytes overall) [5182131 bytes received at 30304 bytes/sec], 172090 bytes transferred using HTTP compression in 4 files, ratio 28%, 5.7 requests per connection
+(5 errors, 39 warnings, 0 messages)
